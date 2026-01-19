@@ -3,12 +3,12 @@
   "name": "backend",
   "main": "src/index.ts",
   "compatibility_date": "2026-01-16",
-  // "compatibility_flags": [
-  //   "nodejs_compat"
-  // ],
-  "vars": {
-    "DATABASE_URL": "my-variable"
-  },
+  "compatibility_flags": [
+    "nodejs_compat"
+  ],
+  // "vars": {
+  //   "DATABASE_URL": "my-variable"
+  // },
   // "kv_namespaces": [
   //   {
   //     "binding": "MY_KV_NAMESPACE",
