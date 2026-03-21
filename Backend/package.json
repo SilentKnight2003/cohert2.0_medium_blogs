@@ -9,6 +9,7 @@
   "dependencies": {
     "@prisma/extension-accelerate": "^3.0.1",
     "@subhransujena/medium-common": "^1.0.1",
+    "cors": "^2.8.6",
     "hono": "^4.11.4",
     "prisma": "^7.2.0",
     "zod": "^4.3.5"
